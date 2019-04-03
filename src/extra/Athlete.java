@@ -17,8 +17,7 @@ public class Athlete {
 		nextBibNumber++;
 	}
 
-public static void main(String[] args) {
-	Athlete 
-	
-}
+	public static void main(String[] args) {
+
+	}
 }
